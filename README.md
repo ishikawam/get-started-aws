@@ -1,2 +1,3 @@
 # get-started-aws
-awsのはじめかた
+
+[awsのはじめかた](https://github.com/ishikawam/get-started-aws/wiki)
