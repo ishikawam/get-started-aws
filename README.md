@@ -1,0 +1,2 @@
+# get-started-aws
+awsのはじめかた
